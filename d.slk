@@ -1,0 +1,36 @@
+ID;PGnumeric;N;E
+P;PGeneral
+P;ESans;M200
+F;FD0R;P0;SM1;C1
+F;FD0C;P0;SM1;C2
+F;FD0C;P0;SM1;C3
+F;FD0C;P0;SM1;C4
+F;P0;SM1;C5
+F;FD0R;P0;SM1;Y1;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;P0;SM1;X5
+F;FD0R;P0;SM1;Y2;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;P0;SM1;X5
+F;W1 1 10
+F;W2 2 8
+F;W3 3 3
+F;W4 4 5
+F;W5 5 54
+B;Y2;X5;D0 0 1 4
+O;A100 0.001000;L;V0
+C;Y1;X1;K"name"
+C;X2;K"amount(kg)"
+C;X3;K"cost"
+C;X4;K"cost/kg"
+C;X5;K"url"
+C;Y2;X1;K"salaam basmati"
+C;X2;K10
+C;X3;K12
+C;X4;K1.2;ERC[-1]/RC[-2]
+C;X5;K"https://www.sainsburys.co.uk/gol-ui/product/salaam-basmati-rice-10kg-7962973-p-44"
+E
